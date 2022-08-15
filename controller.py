@@ -236,9 +236,9 @@ def update_users(name, address, id, phone):
     return True
 
 
-def update_services(_id, user_id, check_in, service, premium):
+def update_services(id, user_id, check_in, service, premium):
     cmd = f"update services set check_in = '{check_in}',user_id = {user_id}, \
-        service = '{service}',premium = {premium} where id= {_id};"
+        service = '{service}',premium = '{premium}' where id= {id};"
     cursor.execute(cmd)
     if cursor.rowcount == 0:
         return False
