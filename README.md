@@ -1,9 +1,9 @@
 Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
 
-Python 3 - Download instructions here
+Python 3 - Download 
 Pip 3 (usually gets installed automatically with Python)
-MySQL Server - If you haven't already, download the package from here, then create a user account and note the username and password
+MySQL Server - Download the package download, then create a user account and note the username and password
 If all the above are satisfied, you may proceed to the next section.
 
 Installation
