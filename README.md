@@ -21,8 +21,7 @@ Matplotlib is used for data visualization.
 
 TECHNOLOGIES USED:
 The technologies used are listed below:
-• Django Framework is used to create the websites using model-template-view architectural pattern. – This
-functionality is edited and Tkinter is used for GUI.
+• Tkinter is used for GUI.
 • Object Oriented Programming paradigm.
 • Python libraries like NumPy and Matplotlib.
 • MySQL database to store and fetch the details.
