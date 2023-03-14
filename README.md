@@ -19,7 +19,7 @@ The admin can manage the admin portal which has the following features:\
 MySQL database is used to store all these details in the backend.
 Matplotlib is used for data visualization.
 
-TECHNOLOGIES USED:
+## TECHNOLOGIES USED:
 The technologies used are listed below:\
 • Tkinter is used for GUI.\
 • Object Oriented Programming paradigm.\
