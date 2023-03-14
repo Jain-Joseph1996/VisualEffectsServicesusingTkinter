@@ -1,35 +1,35 @@
-PROJECT DESCRIPTION:
+## PROJECT DESCRIPTION:
 The main purpose of this website is to provide a platform for the users to get a single website where the users can avail
 various visual effects services.
 
-PROJECT SCOPE:
-The end user will be able to access the following pages:
-• Home: This is the main page with basic details of the site.
-• About Us: Includes details of the services provided.
-• Services: Here the end user can request a service.
-• Sign Up: Here the end user can sign up to the site.
+## PROJECT SCOPE:
+The end user will be able to access the following pages:\
+• Home: This is the main page with basic details of the site.\
+• About Us: Includes details of the services provided.\
+• Services: Here the end user can request a service.\
+• Sign Up: Here the end user can sign up to the site.\
 • Admin: This acts as a pathway to the admin page where only admins can log in.
 
-The admin can manage the admin portal which has the following features:
-• Dashboard: This is the page that shows basic details of the site including data visualization.
-• Services: Here the admin can view all the services and add, delete, or edit a service.
-• Users: Here the admin can view all the users and add, delete, or edit a user’s details.
+The admin can manage the admin portal which has the following features:\
+• Dashboard: This is the page that shows basic details of the site including data visualization.\
+• Services: Here the admin can view all the services and add, delete, or edit a service.\
+• Users: Here the admin can view all the users and add, delete, or edit a user’s details.\
 • Logout: This acts as a pathway to the main window from the admin window.
 
 MySQL database is used to store all these details in the backend.
 Matplotlib is used for data visualization.
 
 TECHNOLOGIES USED:
-The technologies used are listed below:
-• Tkinter is used for GUI.
-• Object Oriented Programming paradigm.
-• Python libraries like NumPy and Matplotlib.
-• MySQL database to store and fetch the details.
-• PyCharm IDE for development.
+The technologies used are listed below:\
+• Tkinter is used for GUI.\
+• Object Oriented Programming paradigm.\
+• Python libraries like NumPy and Matplotlib.\
+• MySQL database to store and fetch the details.\
+• PyCharm IDE for development.\
 • GitHub for collaboration.
 
 
-HOW TO INSTALL THE APP 
+## HOW TO INSTALL THE APP 
 
 Prerequisites
 This is an example of how to list things you need to use the software and how to install them.
